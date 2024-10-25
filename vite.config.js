@@ -1,4 +1,5 @@
 import { defineConfig } from 'vite'
+import.meta.env.BASE_URL
 import react from '@vitejs/plugin-react'
 
 // https://vitejs.dev/config/
